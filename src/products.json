@@ -22,5 +22,13 @@
       "like":0,
       "quantity":20,
       "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "name": "KeyBoard",
+      "like":0,
+      "quantity":20,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire ",
+      "img": "product3.jpg"
     }
   ]
+  
